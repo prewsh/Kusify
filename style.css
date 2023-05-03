@@ -1789,7 +1789,7 @@ ul.listing-style.modify li:before {
   z-index: 9;
 }
 .full-width-header .rs-header .logo-part img {
-  max-height: 40px;
+  max-height: 70px;
 }
 .full-width-header .rs-header .menu-area {
   transition: all 0.3s ease;
@@ -4802,13 +4802,15 @@ body .modal-backdrop {
   margin-bottom: 65px;
 }
 .rs-slider.main-home .slider-content.slide1 {
-  background: url(assets/images/slider/main-home/1.jpg);
+  background: url(assets/images/pics/pic-6.jpg), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+  background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .rs-slider.main-home .slider-content.slide2 {
-  background: url(assets/images/slider/main-home/2.jpg);
+  background: url(assets/images/pics/pic-4.jpg), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+  background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11693,7 +11695,7 @@ body .modal-backdrop {
   z-index: -1;
 }
 .rs-cta.main-home .partition-bg-wrap:after {
-  background: url(assets/images/cta/home1.jpg);
+  background: url(assets/images/pics/pic-3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -12524,7 +12526,7 @@ body .modal-backdrop {
   padding: 20px 14px 35px !important;
 }
 .rs-faq-part.style1 .img-part {
-  background: url(assets/images/faq/1.jpg);
+  background: url(assets/images/pics/pic-7.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
