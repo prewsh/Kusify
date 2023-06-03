@@ -4802,14 +4802,14 @@ body .modal-backdrop {
   margin-bottom: 65px;
 }
 .rs-slider.main-home .slider-content.slide1 {
-  background: url(assets/images/pics/pic-6.jpg);
+  background: url(assets/images/pics/pics-12.jpg), linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2));
   background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .rs-slider.main-home .slider-content.slide2 {
-  background: url(assets/images/pics/pic-4.jpg);
+  background: url(assets/images/pics/pics-14.jpg), linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2));
   background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
