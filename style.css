@@ -67,6 +67,7 @@ body {
   line-height: 26px;
   font-weight: 400;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 img {
   max-width: 100%;
