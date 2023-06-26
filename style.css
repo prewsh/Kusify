@@ -4816,6 +4816,13 @@ body .modal-backdrop {
   background-position: center;
   background-repeat: no-repeat;
 }
+.rs-slider.main-home .slider-content.slide3 {
+  background: url(assets/images/pics/pic-10.jpg), linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2));
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 .rs-slider.main-home .owl-nav .owl-next,
 .rs-slider.main-home .owl-nav .owl-prev {
   position: absolute;
